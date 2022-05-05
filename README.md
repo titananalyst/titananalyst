@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @titananalyst
 - 👀 I’m interested in machine learning, data analysis
-- 🌱 I’m currently learning python, R
-- 💞️ I’m looking to collaborate on data
+- 🌱 I’m currently learning python, R, matlab
+- 💞️ I’m looking to collaborate with data
 - 📫 How to reach me: on git
 
 <!---
