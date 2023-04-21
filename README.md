@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @titananalyst
-- 👀 I’m interested in machine learning, data analysis
+- 👀 I’m interested in machine learning, software, data analysis
 - 🌱 I’m currently learning python, R, SQL and LaTeX
-- 📫 How to reach me: on git
+- 🌱 I'm working on a measurement chain with a embedded software and running anomaly detection on the collected data
 
 <!---
 titananalyst/titananalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
